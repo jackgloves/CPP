@@ -1,0 +1,10 @@
+1. Go to src directory
+2. mkdir build
+
+If you have made build already, start from step3
+
+3. cd build
+4. cmake ..
+5. make
+6. ./csv_l3_md/csv_l3_md ../../data/l3_market_data.csv l2 > ../../data/output.txt
+

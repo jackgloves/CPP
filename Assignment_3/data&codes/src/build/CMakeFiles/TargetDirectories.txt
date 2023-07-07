@@ -1,0 +1,11 @@
+/home/jackgloves/hw3/src/build/CMakeFiles/edit_cache.dir
+/home/jackgloves/hw3/src/build/CMakeFiles/rebuild_cache.dir
+/home/jackgloves/hw3/src/build/util/CMakeFiles/util.dir
+/home/jackgloves/hw3/src/build/util/CMakeFiles/edit_cache.dir
+/home/jackgloves/hw3/src/build/util/CMakeFiles/rebuild_cache.dir
+/home/jackgloves/hw3/src/build/book/CMakeFiles/book.dir
+/home/jackgloves/hw3/src/build/book/CMakeFiles/edit_cache.dir
+/home/jackgloves/hw3/src/build/book/CMakeFiles/rebuild_cache.dir
+/home/jackgloves/hw3/src/build/csv_l3_md/CMakeFiles/csv_l3_md.dir
+/home/jackgloves/hw3/src/build/csv_l3_md/CMakeFiles/edit_cache.dir
+/home/jackgloves/hw3/src/build/csv_l3_md/CMakeFiles/rebuild_cache.dir
